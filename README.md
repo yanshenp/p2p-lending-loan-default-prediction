@@ -1,2 +1,6 @@
 # p2p-lending-loan-default-prediction
-  This project utilized the LightGBM algorithm alongside the Boruta feature selection technique to identify the most critical features and develop a predictive model for forecasting loan defaults in the Peer-to-Peer (P2P) lending sector. The goal was to create a model that accurately predicts loan defaults, benefiting lenders and P2P lending platforms. 
+This project utilized the LightGBM algorithm alongside the Boruta feature selection technique to identify the most critical features and develop a predictive model for forecasting loan defaults in the Peer-to-Peer (P2P) lending sector. The goal was to create a model that accurately predicts loan defaults, benefiting lenders and P2P lending platforms. 
+
+The scope of this project will be focusing on the prediction of loan default in the Peer-to-Peer (P2P) industry. In this project, relevant data regarding the loan details of the P2P industry will be collected from the Kaggle website at https://www.kaggle.com/datasets/wordsforthewise/lending-club. The targeted audiences would be the management of the P2P platforms, the lenders and investors that lend funds to borrowers. The outcome of the project would be in the form of a predictive model that could predict the loan default in the P2P lending industry. 
+
+The codes to conduct the project are separated into several parts, with part 1 as the preprocessing of the data, part 2 as the model development and part 3 as the model evaluation.
