@@ -1,3 +1,6 @@
-streamlit
 pandas
-numpy
+plotly
+streamlit
+yfinance
+pandas-datareader
+prophet
