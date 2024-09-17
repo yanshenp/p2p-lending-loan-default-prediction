@@ -43,7 +43,7 @@ Key Components of the web app:
 
 
 ## Demo
-You can view the live demo of the application [here](https://p2p-lending-loan-default-prediction.streamlit.app/).
+You can visit the web application [here](https://p2p-lending-loan-default-prediction.streamlit.app/).
 
 ![Demo GIF](images/streamlit-demo.gif)
 
