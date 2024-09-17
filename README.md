@@ -46,7 +46,7 @@ Key Components of the web app:
 You can view the live demo of the application [here](https://p2p-lending-loan-default-prediction.streamlit.app/).
 
 ## Visual Overview
-![Demo GIF](https://github.com/yanshenp/p2p-lending-loan-default-prediction/blob/main/path/to/your/streamlitdemo.gif)
+![Demo GIF](images/streamlit-demo.gif)
 
 # Conclusion
 It was found that the features related to the verification status of the applicants’ information, annual income, average current balance, and debt-to-income ratio appeared to be the influential features with high feature importance scores. The features contributed to the loan defaults were determined using the output of the Boruta algorithm and this achieved the first objective of the study. After the feature selection step, the LightGBM, Logistic Regression and SVM models were trained using the dataset. Base models for each of these models were firstly constructed and subsequently fine-tuned using GridSearchCV and RandomizedSearchCV techniques. The LightGBM model obtained an accuracy of 65.26% and was chosen as the most suitable predictive model for the prediction of loan default in the P2P lending domain. Furthermore, the LightGBM model outperformed the proposed Support Vector Machine and Logistic Regression models across all the evaluation metrics. This fully met the second and third objectives of the study.
